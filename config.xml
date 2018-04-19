@@ -5,10 +5,10 @@ xmlns:gap= "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app2"
 version = "1.0.0">
 
-<name> app2-2018 DATOS ALUMNOS </name>
+<name> app2 DATOS ALUMNOS </name>
 
 <description>
-Aplicacion que muestra los DATOS del Dispositivo
+Aplicacion que muestra los DATOS del alumno
 </description>
 
 <author href="https://build.phonegap.com" email="carvajalrony124@gmail.com">
@@ -16,13 +16,13 @@ Aplicacion que muestra los DATOS del Dispositivo
  </autor>
 
 <!--Personaliza la aplicacion y plataforma-->
-<preference name="orientation"   value="default" />
+<preference name="orientation"    value="default" />
 <!-- <preference name="orientation"  value="portrait"/>
 <preference name="orientation"     value="landscape"/> -->
-<preference name="target-device"  value="universal" />
-<preference name="fullscreen"  value="true" />
+<preference name="target-device"   value="universal" />
+<preference name="fullscreen"   value="true" />
 <preference name="android-installLocation"  value="auto" />
-<preference name="permissions"  value="INTERNET" />
+<preference name="permissions" value="INTERNET" />
 
 <!--Plugins-->
 <!--Core plugins-->
